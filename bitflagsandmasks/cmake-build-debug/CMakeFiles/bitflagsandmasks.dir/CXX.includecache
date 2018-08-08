@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/twill/CLionProjects/first_quiz/io.h
-
-/Users/twill/CLionProjects/first_quiz/main.cpp
+/Users/twill/CLionProjects/bitflagsandmasks/main.cpp
 iostream
 -
-io.h
-/Users/twill/CLionProjects/first_quiz/io.h
 
