@@ -12,25 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="991f9a29-2e9c-46b8-a8c5-a80a1a8d4ed5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bitflagsandmasks/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitflagsandmasks/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../first_quiz/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/types.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_quiz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../first_quiz/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_quiz/cmake-build-debug/CMakeFiles/first_quiz.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../first_quiz/cmake-build-debug/CMakeFiles/first_quiz.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_quiz/cmake-build-debug/CMakeFiles/first_quiz.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../first_quiz/cmake-build-debug/CMakeFiles/first_quiz.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_quiz/cmake-build-debug/first_quiz" beforeDir="false" afterPath="$PROJECT_DIR$/../first_quiz/cmake-build-debug/first_quiz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_quiz/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../first_quiz/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitflagsandmasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bitflagsandmasks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hey" beforeDir="false" afterPath="$PROJECT_DIR$/../hey" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,8 +28,10 @@
     <session id="1297579185">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -61,7 +47,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -70,7 +56,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
+            <state relative-caret-position="270">
               <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
             </state>
           </provider>
@@ -94,8 +80,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="272" />
+    <option name="y" value="277" />
     <option name="width" value="1440" />
     <option name="height" value="828" />
   </component>
@@ -105,8 +92,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,36 +137,37 @@
       <option name="presentableId" value="Default" />
       <updated>1533737344113</updated>
       <workItem from="1533737346070" duration="1244000" />
+      <workItem from="1533921167029" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1244000" />
+    <option name="totallyTimeSpent" value="1257000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="828" extended-state="1" />
+    <frame x="272" y="277" width="1440" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32880434" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880434" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32880434" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32880434" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +182,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
+        <state relative-caret-position="270">
           <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>

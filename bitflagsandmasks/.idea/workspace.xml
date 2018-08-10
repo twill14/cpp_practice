@@ -12,25 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1123f3f4-5d33-4b7c-86fe-f0fd34dee5a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../first_quiz/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../functions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../types/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../types/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../types/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../types/.idea/types.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../types/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../types/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../types/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../types/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_quiz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../first_quiz/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_quiz/cmake-build-debug/CMakeFiles/first_quiz.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../first_quiz/cmake-build-debug/CMakeFiles/first_quiz.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_quiz/cmake-build-debug/CMakeFiles/first_quiz.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../first_quiz/cmake-build-debug/CMakeFiles/first_quiz.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_quiz/cmake-build-debug/first_quiz" beforeDir="false" afterPath="$PROJECT_DIR$/../first_quiz/cmake-build-debug/first_quiz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_quiz/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../first_quiz/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hey" beforeDir="false" afterPath="$PROJECT_DIR$/../hey" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../types/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../types/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,6 +27,7 @@
     <session id="-1612869588">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -70,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="285">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -94,7 +78,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-1" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -150,16 +134,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533751353714</updated>
-      <workItem from="1533751355328" duration="1850000" />
+      <workItem from="1533751355328" duration="2604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1850000" />
+    <option name="totallyTimeSpent" value="2604000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1440" height="825" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1" y="23" width="1440" height="825" extended-state="1" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
@@ -168,11 +151,11 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" weight="0.3287858" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3287858" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3287858" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3287858" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -195,8 +178,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
